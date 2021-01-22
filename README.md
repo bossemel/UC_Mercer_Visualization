@@ -1,4 +1,4 @@
-# UC_Mercer_Visualization
+# UC Mercer Visualization
 Data Analysis and data visualization tutorial using the [UC Mercer Land Use Dataset](http://weegee.vision.ucmerced.edu/datasets/landuse.html).
 
 ## Installation
