@@ -1,0 +1,5 @@
+.DS_Store
+.env
+.jupyterenv/
+data/
+.ipynb_checkpoints/
